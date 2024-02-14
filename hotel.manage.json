@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "65bcd0b42f81c8727d09754d"
+  },
+  "name": "Suskhsagar resto",
+  "email": "dattani123@gmail.com",
+  "mobile": {
+    "$numberLong": "8978456532"
+  },
+  "address": "marathadarbar123@gmail.com",
+  "services": "Veg restaraunt pav",
+  "id": "1",
+  "menu": "Pnaeer",
+  "rate": "100"
+},
+{
+  "_id": {
+    "$oid": "65bcd0f02f81c8727d09754e"
+  },
+  "name": "Nisarg ",
+  "email": "abc12@gmail.com",
+  "mobile": {
+    "$numberLong": "8956784512"
+  },
+  "address": "aagra highway malegaon",
+  "services": "non-vegiterian",
+  "id": "2"
+},
+{
+  "_id": {
+    "$oid": "65bd34e87f97bc933efeee83"
+  },
+  "name": "Sunil foods",
+  "email": "sunil123@gmail.com",
+  "mobile": {
+    "$numberLong": "7898564512"
+  },
+  "address": "Collage road ,malegaon",
+  "services": "Missal ",
+  "id": "3"
+},
+{
+  "_id": {
+    "$oid": "65bf80e733f370efdcd8b76f"
+  },
+  "name": "Hotel Savali",
+  "email": "savali123@gmail.com",
+  "mobile": {
+    "$numberLong": "8956124578"
+  },
+  "address": "Manmad chaufuli,Malegaon",
+  "services": "veg restaraunt",
+  "id": "4"
+},
+{
+  "_id": {
+    "$oid": "65bf82ef33f370efdcd8b770"
+  },
+  "name": "Hotel Savita",
+  "email": "raj98@gmail.comm",
+  "mobile": {
+    "$numberLong": "8978456512"
+  },
+  "address": "Front of state bank of india",
+  "services": "Vada pav",
+  "id": "5"
+},
+{
+  "_id": {
+    "$oid": "65bf835533f370efdcd8b771"
+  },
+  "name": "Maratha-Darbar",
+  "email": "mar123@gmail.com",
+  "mobile": {
+    "$numberLong": "8978455623"
+  },
+  "address": "court ,camp, malegaon",
+  "services": "chai,coffe",
+  "id": "6"
+},
+{
+  "_id": {
+    "$oid": "65bf83a733f370efdcd8b772"
+  },
+  "name": "Omkar cafe",
+  "email": "omkar@gmail.com",
+  "mobile": {
+    "$numberLong": "8798564521"
+  },
+  "address": "camp road,malegaon",
+  "services": "cold coffee",
+  "id": "7"
+}]
