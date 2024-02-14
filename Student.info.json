@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "65ae40ae7686c1027b57611b"
+  },
+  "Name": "Omkar Warule",
+  "Age": 19,
+  "Department": "Computer"
+},
+{
+  "_id": {
+    "$oid": "65ae41087686c1027b57611c"
+  },
+  "Name": "Shubham Mahalle",
+  "Age": 20,
+  "Department": "IT"
+}]
